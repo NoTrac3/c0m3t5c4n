@@ -1,4 +1,5 @@
 # C0M3T5C4N - XSS Vulnerability Scanner, Auto-Exploiter & Destructive Payload Demonstrator
+CREATED BY: RedJester
 
 ## Description
 C0M3T5C4N is an automated security tool designed to hunt for Cross-Site Scripting (XSS) vulnerabilities in web applications. It scans for reflected, stored, and redirection-based XSS by injecting a wide variety of payloads into web forms. In addition to detecting vulnerabilities, C0M3T5C4N demonstrates exploitation by auto-executing payloads that simulate malicious behavior—ranging from benign alerts to full-page defacement and redirection. This tool not only shows how an attacker might compromise a vulnerable site, but also highlights the destructive potential of unsanitized inputs.
